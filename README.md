@@ -1,5 +1,5 @@
 # 인스타그램 클론코딩 저장소입니다.
-> [Dreamofheaven](https://github.com/Dreamofheaven) X [Pysonny](https://github.com/Pysonny) X [SoozieKam](https://github.com/SoozieKam)
+> [Dreamofheaven](https://github.com/Dreamofheaven) X [Pysonny](https://github.com/Pysonny) X [SoozieKam](https://github.com/SoozieKam) X [thebjko](https://github.com/thebjko)
 
 1. 회의 요청이 있을 경우 회의 진행
 2. 스타일 충돌이 있을 경우 참고자료의 'The Guid To Responsive Design In 2023 and Beyond'와 'AirBnb Style Guide'를 따릅니다.
